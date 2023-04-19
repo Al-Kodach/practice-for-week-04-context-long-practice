@@ -14,8 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "audit": "^0.0.6",
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
-    "mocha": "^6.2.2"
+    "fix": "^0.0.3",
+    "mocha": "^10.2.0"
   }
 }
